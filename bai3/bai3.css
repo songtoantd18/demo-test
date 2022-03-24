@@ -4,6 +4,9 @@ div.v0 {
     box-sizing: content-box;
     background-color: none;
     border:4px dashed blue;
+    outline-offset: 0px;
+    outline: 1px solid blue;
+    margin: 50px;
 }
 div.v1 {
     height: 300px;
